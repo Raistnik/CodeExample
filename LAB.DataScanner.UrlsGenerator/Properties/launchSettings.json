@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "LAB.DataScanner.UrlsGenerator": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

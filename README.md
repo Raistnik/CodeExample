@@ -1,9 +1,5 @@
 # LAB.DataScanner project
 DataScanner project includes the solution and project files for Visual Studio 2019.
-DataScanner consists of three parts:
-- Application Types as Console applications
-- Configuration database API
-- UI dashboard for configuration database API
 
 # Console applications
 Every application implemented using .NET Core 3.1 and requires RabbitMQ locally or in cloud.
